@@ -3,7 +3,11 @@ A Generative AI project utilizing LLMs to generate prose, poetry, and music. Bui
 
 # Features
 -Generate prose and poetry using GPT-2
+
+
 -Generate music using MusicGen-Small
+
+
 -Simple interactive prompt-based interface
 
 # Models Used
