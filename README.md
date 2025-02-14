@@ -11,15 +11,25 @@ A Generative AI project utilizing LLMs to generate prose, poetry, and music. Bui
 -Simple interactive prompt-based interface
 
 # Models Used
--GPT-2 – Used for prose and poetry generation
--Facebook MusicGen-Small – Used for generating music
+1.GPT-2 – Used for prose and poetry generation
+
+
+2.Facebook MusicGen-Small – Used for generating music
 
 # Usage
 -Choose a content type: prose, poetry, or music.
+
+
 -Enter a prompt to guide the generation.
+
+
 -For prose and poetry, specify the word limit.
+
+
 -If generating music, the output will be saved as generated_music.wav.
 
 # Future Enhancements
 -Integrate Reinforcement Learning with Human Feedback (RLHF) for adaptive content improvement.
+
+
 -Improve model performance for better creativity and coherence.
